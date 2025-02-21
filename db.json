@@ -73,17 +73,17 @@
           "numeroCena": "9",
           "cena": "",
           "nomeMusica": "I WILL FOLLOW - Cody Carnes",
-          "linkMusica": "https://www.dropbox.com/scl/fo/11uio0eksy0ju3nbl2hjk/AKGWvDClH2L2dlnCcCceeIE?rlkey=59vfg8ox86dmklebndftuhjp7&st=8j6w9g8q&dl=0",
+          "linkMusica": "#",
           "anotacao": "------",
-          "status": "OK"
+          "status": "NOK"
         },
         {
           "numeroCena": "10",
           "cena": "",
           "nomeMusica": "THEN I WILL - Lauren Daigle",
-          "linkMusica": "#",
+          "linkMusica": "https://www.dropbox.com/scl/fo/11uio0eksy0ju3nbl2hjk/AKGWvDClH2L2dlnCcCceeIE?rlkey=59vfg8ox86dmklebndftuhjp7&st=8j6w9g8q&dl=0",
           "anotacao": "------",
-          "status": "NOK"
+          "status": "OK"
         },
         {
           "numeroCena": "11",
