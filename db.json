@@ -190,11 +190,7 @@
       "observacoes": "CONVERSE COM O LIDER DO NAIPE, SOBRE SUA PARTICIPAÇÃO ",
       "linkFormulario": "",
       "musicas": [
-<<<<<<< HEAD
-          {
-=======
         {
->>>>>>> e948abd (culto primavarea)
           "numeroCena": 1,
           "cena": "ABERTURA",
           "nomeMusica": "SHEVAKH (Praise)",
@@ -210,11 +206,7 @@
           "anotacao": "------",
           "status": "OK"
         },
-<<<<<<< HEAD
-                {
-=======
         {
->>>>>>> e948abd (culto primavarea)
           "numeroCena": 3,
           "cena": "INTERCESSÃO",
           "nomeMusica": "NO OTHER NAME",
@@ -224,11 +216,7 @@
         },
         {
           "numeroCena": 4,
-<<<<<<< HEAD
-          "cena":"",
-=======
           "cena": "",
->>>>>>> e948abd (culto primavarea)
           "nomeMusica": "OCEANS",
           "linkMusica": "https://www.dropbox.com/scl/fo/9lkawi0yzl0x8ghfxqgmj/AEgAlqPN_gxAV51PJGXjHOQ?rlkey=zowfvvjzd3vz08kue721mu8q2&st=cka1pu2u&dl=0",
           "anotacao": "------",
@@ -236,12 +224,6 @@
         },
         {
           "numeroCena": 5,
-<<<<<<< HEAD
-          "cena": "ESPECIAL",
-          "nomeMusica": "I'LL FOLLOW - LETRA DA MUSICA",
-          "linkMusica": "https://www.dropbox.com/scl/fo/pcfexexzjf54yhn8u9tdy/AMOhUFmn3KDo0R86EBpVyUI?rlkey=cybtgir9pmkbzq1aoyb95pe02&st=6d13kq5v&dl=0",
-          "anotacao": "A ORQUESTRA IRÁ CANTAR COM O CORO",
-=======
           "cena": "DÍZIMOS",
           "nomeMusica": "HOUSE OF MIRACLES",
           "linkMusica": "https://www.dropbox.com/scl/fo/vc5lrwodp87wupvbjtgno/AIDV78lQK7urx90zotIgRtA?rlkey=pbrrqcjyrzyjmkyf6sa9te7qm&st=kq29qcp0&dl=0",
@@ -259,7 +241,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "ativo": true,
       "ano": 2025,
       "nome": "Culto IC Primavera",
@@ -309,7 +291,6 @@
           "nomeMusica": "THE TRUTH - A verdade",
           "linkMusica": "https://www.dropbox.com/scl/fo/8ijf8ypj6nttgxd6nsy74/AOTt8yKJ3H3hGVL0kmdKqE4?rlkey=w9aidmqaqjpw8ll97k8b5ch3v&st=6ovzunex&dl=0",
           "anotacao": "",
->>>>>>> e948abd (culto primavarea)
           "status": "OK"
         }
       ]
